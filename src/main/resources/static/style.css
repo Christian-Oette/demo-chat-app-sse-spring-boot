@@ -1,0 +1,33 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Archivo', sans-serif;
+ font-weight: 500;
+}
+h2 {
+    padding-top: 25px;
+}
+h3 {
+    padding-top: 15px;
+}
+.center {
+    margin: auto;
+    width: 80%;
+    max-width:1024px;
+    padding: 10px;
+}
+input {
+    margin-bottom: 20px;
+    width: 250px;
+    height: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    padding: 2px;
+}

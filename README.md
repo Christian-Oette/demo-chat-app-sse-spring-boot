@@ -1,9 +1,9 @@
 # Chat Application with Server Sent Events (SSE) in spring boot
 
-- Start the Application
-- Open localhost:8080 in multiple browser windows
-- Start to chat
+- Start `SseDemoApplication`
+- Open http://localhost:8080 in multiple browser windows
+- Use the chat
 
 ## Preview
 
-![plot](./docs/screenshot.png)
+![Screenshot](./docs/screenshot.png)

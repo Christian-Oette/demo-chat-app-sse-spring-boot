@@ -53,7 +53,7 @@ function registerSSE(url) {
         handleWelcomeEvent(JSON.parse(event.data));
     })
     source.onopen = event => console.log("Connection opened");
-    source.onerror = event => console.error("Connection opened");
+    source.onerror = event => console.error("Connection error");
     return source;
 }
 
